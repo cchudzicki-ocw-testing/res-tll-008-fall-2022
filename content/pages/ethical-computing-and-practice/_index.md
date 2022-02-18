@@ -6,7 +6,7 @@ title: Ethical Computing and Practice
 uid: a309ad69-914b-c4cb-9139-3610c7e186a1
 ---
 
-[6.170 Software Studio]({{< baseurl >}}/pages/ethical-computing-and-practice/software-studio)
+{{< resource_link 00ebca89-0d18-832b-af40-78795ba0684f "6.170 Software Studio" >}}
 ---------------------------------------------------------------------------------------------
 
 _Authors:_ Daniel Jackson, Arvind Satyanarayan, Serena Booth
@@ -15,7 +15,7 @@ _Resources:_ 5 assignments with SERC design reflections; module lecture on respo
 
 _Keywords:_ software design, local government, ethical assessment
 
-[6.864 Quantitative Methods for Natural Language Processing]({{< baseurl >}}/pages/ai-algorithms/quantitative-methods-for-natural-language-processing)
+{{< resource_link e973e803-f498-7fee-0427-c3ab9df01ebf "6.864 Quantitative Methods for Natural Language Processing" >}}
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 _Authors:_ Jacob Andreas, Catherine D'Ignazio, Harini Suresh
@@ -30,7 +30,7 @@ _Topics addressed:_
 *   What its limitations might be
 *   What the data should and should not be used for
 
-[6.036 Introduction to Machine Learning]({{< baseurl >}}/pages/privacy-surveillance/introduction-to-machine-learning)
+{{< resource_link a0645803-3a97-da0c-e60a-49b15e47101c "6.036 Introduction to Machine Learning" >}}
 ---------------------------------------------------------------------------------------------------------------------
 
 _Authors:_ Leslie Kaelbling, Serena Booth, Marion Boulicault, Dheekshita Kumar, Rodrigo Ochigame
@@ -73,7 +73,7 @@ An exercise to explore the ethical implications of digital advertising, grounded
 
 *   _Associated case study:_ Kant, T. (2021). Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User.” MIT Case Studies in Social and Ethical Responsibilities of Computing, (Summer 2021). [https://doi.org/10.21428/2c646de5.929a7db6](https://doi.org/10.21428/2c646de5.929a7db6)
 
-### [Active Learning Project: Active Learning Project on Developing Codes on Conduct (PDF)]({{< baseurl >}}/resources/res-tll008f21-alp_open_technologies_open_communities-1) ([DOCX]({{< baseurl >}}/resources/res-tll008f21-alp_open_technologies_open_communities))
+### {{< resource_link 17714235-e1c6-4242-08f5-db881ee8643e "Active Learning Project: Active Learning Project on Developing Codes on Conduct (PDF)" >}} ({{< resource_link 0ddc2160-f045-ce3f-896d-53ad99980c2a "DOCX" >}})
 
 An exercise in developing a code of conduct for a team-based course in Github-hosted project repositories. 
 

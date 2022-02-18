@@ -6,7 +6,7 @@ title: AI and Algorithms
 uid: 17e1fff5-e25b-6a04-922e-1cd9935bbd5a
 ---
 
-[6.036 Introduction to Machine Learning]({{< baseurl >}}/pages/privacy-surveillance/introduction-to-machine-learning)
+{{< resource_link a0645803-3a97-da0c-e60a-49b15e47101c "6.036 Introduction to Machine Learning" >}}
 ---------------------------------------------------------------------------------------------------------------------
 
 _Authors:_ Leslie Kaelbling, Serena Booth, Marion Boulicault, Dheekshita Kumar, Rodrigo Ochigame
@@ -15,7 +15,7 @@ _Weekly Labs:_ 4 weekly labs, each with a SERC question and discussion prompt
 
 _Keywords:_ machine learning; bias and fairness in machine learning; data bias; model bias
 
-[6.864 Quantitative Methods for Natural Language Processing]({{< baseurl >}}/pages/ai-algorithms/quantitative-methods-for-natural-language-processing)
+{{< resource_link e973e803-f498-7fee-0427-c3ab9df01ebf "6.864 Quantitative Methods for Natural Language Processing" >}}
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 _Authors:_ Jacob Andreas, Catherine D'Ignazio, Harini Suresh
