@@ -6,7 +6,7 @@ title: Privacy and Surveillance
 uid: f803f749-08f1-c66f-60a3-cce1b7107d8d
 ---
 
-{{< resource_link b50f80a0-1b37-7c22-394d-94da1312c4ac "STS.047 Quantifying People: A History of Social Science" >}}
+{{% resource_link b50f80a0-1b37-7c22-394d-94da1312c4ac "STS.047 Quantifying People: A History of Social Science" %}}
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 _Author:_ Will Deringer
@@ -21,7 +21,7 @@ _Questions addressed:_
 *   How has quantification contributed to the injustices of modern policing and punishment—to the creation and maintenance of a system that disproportionately and unjustly targets, punishes, incarcerates, and kills people of color, especially Black citizens?
 *   What can history tell us about the role that data and computation should—or should not—play in efforts to create a more just system of justice in the future?
 
-{{< resource_link aa5524bd-44ac-a6cd-4acb-ef45ca9582d4 "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" >}}
+{{% resource_link aa5524bd-44ac-a6cd-4acb-ef45ca9582d4 "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" %}}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 _Author:_ Dwai Banerjee
@@ -36,7 +36,7 @@ _Module Goals:_
 *   To discuss whether they believe existing rights to be adequate
 *   To examine whether current ethical standards (such as those instituted by the GDPR) sufficiently protect their rights (as they exist or as they believe should exist).
 
-{{< resource_link a0645803-3a97-da0c-e60a-49b15e47101c "6.036 Introduction to Machine Learning" >}}
+{{% resource_link a0645803-3a97-da0c-e60a-49b15e47101c "6.036 Introduction to Machine Learning" %}}
 ---------------------------------------------------------------------------------------------------------------------
 
 _Authors:_ Leslie Kaelbling, Serena Booth, Marion Boulicault, Dheekshita Kumar, Rodrigo Ochigame

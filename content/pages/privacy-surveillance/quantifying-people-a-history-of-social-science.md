@@ -9,7 +9,7 @@ title: 'STS.047 Quantifying People: A History of Social Science'
 uid: b50f80a0-1b37-7c22-394d-94da1312c4ac
 ---
 
-_\> Related Topics:_ {{< resource_link f803f749-08f1-c66f-60a3-cce1b7107d8d "Privacy and Surveillance" >}}, {{< resource_link 8918d065-a83d-28bb-930c-c997c41daa24 "Inequality, Justice, & Human Rights" >}}
+_\> Related Topics:_ {{% resource_link f803f749-08f1-c66f-60a3-cce1b7107d8d "Privacy and Surveillance" %}}, {{% resource_link 8918d065-a83d-28bb-930c-c997c41daa24 "Inequality, Justice, & Human Rights" %}}
 
 _Author:_ Will Deringer
 
@@ -24,7 +24,7 @@ _Questions addressed:_
 Resources:
 ----------
 
-_Lecture Module:_ {{< resource_link e64ac4d2-9c8c-a46c-929a-4f9414fb071b "\"Quantify and Punish: Data, Race, and Policing from the Burgess Method to Big Data\" (PDF - 7.7MB)" >}} {{< resource_link 1ac96d82-3bf0-485a-cf3d-0aafabb52d43 "(PPTX - 5.8MB)" >}}
+_Lecture Module:_ {{% resource_link e64ac4d2-9c8c-a46c-929a-4f9414fb071b "\"Quantify and Punish: Data, Race, and Policing from the Burgess Method to Big Data\" (PDF - 7.7MB)" %}} {{% resource_link 1ac96d82-3bf0-485a-cf3d-0aafabb52d43 "(PPTX - 5.8MB)" %}}
 
 Additional Reading: 
 --------------------

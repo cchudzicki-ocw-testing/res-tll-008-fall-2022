@@ -6,7 +6,7 @@ title: Law and Policy
 uid: d3d17eb1-05db-0d7b-d44a-25f575d31c08
 ---
 
-{{< resource_link aa5524bd-44ac-a6cd-4acb-ef45ca9582d4 "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" >}}
+{{% resource_link aa5524bd-44ac-a6cd-4acb-ef45ca9582d4 "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" %}}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 _Author:_ Dwai Banerjee
