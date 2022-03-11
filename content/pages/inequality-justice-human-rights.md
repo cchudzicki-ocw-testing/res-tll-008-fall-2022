@@ -36,7 +36,7 @@ _Keywords:_ algorithmic risk prediction, algorithmic bias, algorithmic fairness,
 
 _Keywords:_ facial recognition, justice system, racial equity, false arrest
 
-[**Who Collects the Data? A Tale of Three Maps**](https://mit-serc.pubpub.org/pub/bias-in-machine/release/1?readingCollection=40dca7f1)**, by Catherine D'Ignazio (MIT) and Lauren Klein (Emory University)**
+[**Who Collects the Data? A Tale of Three Maps**](https://mit-serc.pubpub.org/pub/tale-of-three-maps/release/1)**, by Catherine D'Ignazio (MIT) and Lauren Klein (Emory University)**
 
 _Keywords:_ redlining, social inequality and oppression, missing data, counterdata, matrix of domination, who questions
 
