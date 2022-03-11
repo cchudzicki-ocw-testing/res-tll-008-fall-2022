@@ -72,7 +72,7 @@ _Keywords:_ human-subjects research, informed consent, institutional review boar
 
 ## Active Learning Projects Developed at MIT
 
-**\[Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)\](/editor**{{< baseurl >}}**/resources/res-tll008f21-alp-elo\_practice\_lab) (\[DOCX - 3.2MB\](/editor**{{< baseurl >}}**/resources/res-tll008f21-alp-elo\_practice\_lab-1))**
+{{% resource_link e64ac4d2-9c8c-a46c-929a-4f9414fb071b "Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)" %}} **(DOCX - 3.2MB)**
 
 An exercise to explore the ethical implications of digital advertising, grounded in the functionalities, data, and interfaces driving ad systems in the modern era. This lab focuses on Facebook’s Ads Manager.
 
