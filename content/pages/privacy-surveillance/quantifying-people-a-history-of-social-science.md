@@ -23,7 +23,7 @@ _Questions addressed:_
 
 ## Resources:
 
-_Lecture Module:_ {{% resource_link 9fd9e6dd-436b-af1b-7d0b-e9ff0011d48c ""Quantify and Punish: Data, Race, and Policing from the Burgess Method to Big Data" (PDF - 7.7MB)" %}}(PPTX - 5.8MB)
+_Lecture Module:_ {{% resource_link 9fd9e6dd-436b-af1b-7d0b-e9ff0011d48c "RES.TLL-008  Social and Ethical Responsibilities of Computing (SERC), STS.047 Quantifying People: A History of Social Science Lecture" %}}_(PPTX - 5.8MB)_
 
 ## Additional Reading: 
 
