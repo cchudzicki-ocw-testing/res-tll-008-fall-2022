@@ -47,3 +47,8 @@ leftnav:
   parent: 8918d065-a83d-28bb-930c-c997c41daa24
   url: /resources/res-tll-008f21-sts047-1
   weight: 10
+- identifier: e973e803-f498-7fee-0427-c3ab9df01ebf
+  name: 6.864 Quantitative Methods for Natural Language Processing
+  parent: 17e1fff5-e25b-6a04-922e-1cd9935bbd5a
+  url: /pages/ai-algorithms/quantitative-methods-for-natural-language-processing
+  weight: 10
