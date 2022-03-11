@@ -31,24 +31,3 @@ leftnav:
   name: Law and Policy
   url: /pages/law-policy
   weight: 80
-- identifier: b50f80a0-1b37-7c22-394d-94da1312c4ac
-  name: 'STS.047 Quantifying People: A History of Social Science'
-  parent: f803f749-08f1-c66f-60a3-cce1b7107d8d
-  url: /pages/privacy-surveillance/quantifying-people-a-history-of-social-science
-  weight: 10
-- identifier: aa5524bd-44ac-a6cd-4acb-ef45ca9582d4
-  name: 'STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday
-    Life'
-  parent: f803f749-08f1-c66f-60a3-cce1b7107d8d
-  url: /pages/privacy-surveillance/science-in-action-technologies-and-controversies-in-everyday-life
-  weight: 20
-- identifier: 9fd9e6dd-436b-af1b-7d0b-e9ff0011d48c
-  name: 'STS.047 Quantifying People: A History of Social Science'
-  parent: 8918d065-a83d-28bb-930c-c997c41daa24
-  url: /resources/res-tll-008f21-sts047-1
-  weight: 10
-- identifier: e973e803-f498-7fee-0427-c3ab9df01ebf
-  name: 6.864 Quantitative Methods for Natural Language Processing
-  parent: 17e1fff5-e25b-6a04-922e-1cd9935bbd5a
-  url: /pages/ai-algorithms/quantitative-methods-for-natural-language-processing
-  weight: 10
