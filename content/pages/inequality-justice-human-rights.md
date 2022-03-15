@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Inequality, Justice, & Human Rights
 uid: 8918d065-a83d-28bb-930c-c997c41daa24
+video_metadata:
+  youtube_id: null
 ---
 ## STS.047 Quantifying People: A History of Social Science
 

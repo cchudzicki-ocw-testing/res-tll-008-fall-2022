@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Ethical Computing and Practice
 uid: a309ad69-914b-c4cb-9139-3610c7e186a1
+video_metadata:
+  youtube_id: null
 ---
 ## 6.170 Software Studio
 

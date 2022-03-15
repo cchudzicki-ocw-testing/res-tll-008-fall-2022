@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: AI and Algorithms
 uid: 17e1fff5-e25b-6a04-922e-1cd9935bbd5a
+video_metadata:
+  youtube_id: null
 ---
 ## 6.036 Introduction to Machine Learning
 

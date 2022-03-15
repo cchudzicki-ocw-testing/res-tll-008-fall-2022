@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Autonomous Systems and Robotics
 uid: 2d1143ae-8e51-5eea-e1eb-0775e682c7f8
+video_metadata:
+  youtube_id: null
 ---
 ## MIT Case Studies in Social and Ethical Responsibilities of Computing
 

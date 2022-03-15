@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Privacy and Surveillance
 uid: f803f749-08f1-c66f-60a3-cce1b7107d8d
+video_metadata:
+  youtube_id: null
 ---
 ## {{% resource_link b50f80a0-1b37-7c22-394d-94da1312c4ac "STS.047 Quantifying People: A History of Social Science" %}}
 

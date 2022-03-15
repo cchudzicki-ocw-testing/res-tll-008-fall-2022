@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Law and Policy
 uid: d3d17eb1-05db-0d7b-d44a-25f575d31c08
+video_metadata:
+  youtube_id: null
 ---
 ## STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life
 

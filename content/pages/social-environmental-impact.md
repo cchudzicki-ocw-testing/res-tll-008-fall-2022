@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Social and Environmental Impacts
 uid: c511e1f7-485e-7684-30b2-054190e10b7d
+video_metadata:
+  youtube_id: null
 ---
 ## MIT Case Studies in Social and Ethical Responsibilities of Computing
 

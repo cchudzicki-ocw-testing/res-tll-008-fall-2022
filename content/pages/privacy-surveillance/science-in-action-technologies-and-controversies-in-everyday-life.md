@@ -9,6 +9,8 @@ parent_uid: f803f749-08f1-c66f-60a3-cce1b7107d8d
 title: 'STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday
   Life'
 uid: aa5524bd-44ac-a6cd-4acb-ef45ca9582d4
+video_metadata:
+  youtube_id: null
 ---
 _\> Related Topics:_ {{% resource_link f803f749-08f1-c66f-60a3-cce1b7107d8d "Privacy and Surveillance" %}}, {{% resource_link d3d17eb1-05db-0d7b-d44a-25f575d31c08 "Law and Policy" %}}
 
