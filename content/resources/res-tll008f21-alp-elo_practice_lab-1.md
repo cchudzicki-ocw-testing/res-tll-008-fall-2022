@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: RES-TLL008F21-ALP-ELO_Practice_Lab.docx
 uid: 1ac96d82-3bf0-485a-cf3d-0aafabb52d43
+video_metadata:
+  youtube_id: null
 ---

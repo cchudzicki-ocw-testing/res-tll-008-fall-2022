@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   Ethics Protocol Lecture
 uid: 9a221dbe-4d16-9781-cb4c-d9df4fced3e8
+video_metadata:
+  youtube_id: null
 ---

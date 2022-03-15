@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: RES.TLL-008 SERC Active Learning Project, 6.170 Prep Quiz
 uid: f5cdb573-13a2-3bad-c190-2f77a8f3d6ac
+video_metadata:
+  youtube_id: null
 ---

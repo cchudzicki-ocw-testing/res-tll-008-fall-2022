@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), ALP ELO
 uid: e64ac4d2-9c8c-a46c-929a-4f9414fb071b
+video_metadata:
+  youtube_id: null
 ---

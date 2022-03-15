@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: RES.TLL-008 SERC Active Learning Project, 6.170 Final Project Prompts
 uid: b0ca29c3-d7a5-72f6-5927-be6d8c9bbea8
+video_metadata:
+  youtube_id: null
 ---

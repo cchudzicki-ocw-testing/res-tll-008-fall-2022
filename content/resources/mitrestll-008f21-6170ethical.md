@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: MITRESTLL-008F21-6170ethical.docx
 uid: d9fd9177-7252-a2cc-082f-4ff820c42b6b
+video_metadata:
+  youtube_id: null
 ---

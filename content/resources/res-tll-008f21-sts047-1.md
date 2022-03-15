@@ -11,4 +11,6 @@ resourcetype: Document
 title: 'RES.TLL-008  Social and Ethical Responsibilities of Computing (SERC), STS.047
   Quantifying People: A History of Social Science Lecture'
 uid: 9fd9e6dd-436b-af1b-7d0b-e9ff0011d48c
+video_metadata:
+  youtube_id: null
 ---

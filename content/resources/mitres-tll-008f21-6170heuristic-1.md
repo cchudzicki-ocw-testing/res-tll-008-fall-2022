@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   Heuristic Evaluation Template
 uid: 59fd2afd-ceea-9458-d968-584f28f42dd2
+video_metadata:
+  youtube_id: null
 ---

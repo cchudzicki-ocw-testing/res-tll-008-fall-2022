@@ -7,6 +7,8 @@ parent_type: SupplementalResourceSection
 parent_uid: f803f749-08f1-c66f-60a3-cce1b7107d8d
 title: 6.036 Introduction to Machine Learning
 uid: a0645803-3a97-da0c-e60a-49b15e47101c
+video_metadata:
+  youtube_id: null
 ---
 
 _\> Related Topics:_ [Privacy and Surveillance](/resources/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/privacy-surveillance/quantifying-people-a-history-of-social-science/resolveuid/a689230587e050e5e98f2f0619353d4d), {{% resource_link a309ad69-914b-c4cb-9139-3610c7e186a1 "Ethical Computing and Practice" %}}

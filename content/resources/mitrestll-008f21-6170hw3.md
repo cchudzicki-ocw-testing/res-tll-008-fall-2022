@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   Assignment 3 Problem Statement
 uid: 0b38b2ee-fc3b-a405-a613-3100e261d912
+video_metadata:
+  youtube_id: null
 ---

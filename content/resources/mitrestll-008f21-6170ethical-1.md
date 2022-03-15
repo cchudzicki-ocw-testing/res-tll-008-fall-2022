@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   Ethical Implication Template
 uid: bb0c708e-54b0-c8fb-5527-0fd206c7eb4b
+video_metadata:
+  youtube_id: null
 ---

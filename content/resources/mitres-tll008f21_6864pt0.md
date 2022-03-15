@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Microsoft Word - MITRES-TLL008F21_6864pt0.docx
 uid: 62162d4f-9774-1c38-1b49-2697930242ed
+video_metadata:
+  youtube_id: null
 ---

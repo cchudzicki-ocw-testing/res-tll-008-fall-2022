@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: MITRESTLL-008F21-6170lec.pptx
 uid: b3d886d5-3926-264c-5445-5a2c72199343
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,8 @@ learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ea6634c6-1841-f34c-97bd-e95620a88401
+video_metadata:
+  youtube_id: null
 ---
 
 Instructor Insights

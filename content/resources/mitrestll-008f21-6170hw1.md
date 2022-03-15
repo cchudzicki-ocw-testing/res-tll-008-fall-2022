@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   A1 Problem Statement
 uid: df809573-1195-cd06-1ac8-3eafcc55a881
+video_metadata:
+  youtube_id: null
 ---

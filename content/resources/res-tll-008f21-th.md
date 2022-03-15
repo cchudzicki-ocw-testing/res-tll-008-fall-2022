@@ -14,4 +14,6 @@ ocw_type: OCWImage
 resourcetype: Image
 title: res-tll-008f21-th.jpg
 uid: b86111d8-d6bb-24c2-ec32-b796d0304008
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   A5 Rubric
 uid: 28352a23-f9fa-2e0d-fde4-4ea4de58c3d1
+video_metadata:
+  youtube_id: null
 ---

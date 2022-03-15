@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: RES-TLL-008F21-STS047.pptx
 uid: b117137f-5b5e-bc7e-c8da-a0b8c437d813
+video_metadata:
+  youtube_id: null
 ---

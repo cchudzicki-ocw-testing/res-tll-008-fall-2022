@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   User Test Template
 uid: 23a3a891-e6ba-fd1c-513b-fb3064f3a613
+video_metadata:
+  youtube_id: null
 ---

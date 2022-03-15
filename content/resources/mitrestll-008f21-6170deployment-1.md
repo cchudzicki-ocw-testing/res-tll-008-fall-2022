@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   Deployment Guide
 uid: 49e25498-977a-b345-cd6a-217613190fec
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   Social/Ethical Reflection Template
 uid: 7b8f6d9f-0db6-fce8-f372-61b70ce2aef4
+video_metadata:
+  youtube_id: null
 ---

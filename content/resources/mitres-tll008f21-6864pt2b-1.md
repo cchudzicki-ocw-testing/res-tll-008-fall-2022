@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: MITRES-TLL008F21-6864pt2b.docx
 uid: 0be4e483-4809-4bf2-f5f2-97452a745f44
+video_metadata:
+  youtube_id: null
 ---

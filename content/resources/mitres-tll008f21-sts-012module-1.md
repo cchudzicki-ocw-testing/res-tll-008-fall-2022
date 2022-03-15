@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: MITRES-TLL008F21-STS-012module.docx
 uid: 8283d95f-3ec0-8827-1373-34de3d3959ca
+video_metadata:
+  youtube_id: null
 ---

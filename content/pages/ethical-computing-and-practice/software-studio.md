@@ -7,6 +7,8 @@ parent_type: SupplementalResourceSection
 parent_uid: a309ad69-914b-c4cb-9139-3610c7e186a1
 title: 6.170 Software Studio
 uid: 00ebca89-0d18-832b-af40-78795ba0684f
+video_metadata:
+  youtube_id: null
 ---
 
  _\> Related Topics:_ {{% resource_link a309ad69-914b-c4cb-9139-3610c7e186a1 "Ethical Computing and Practice" %}}

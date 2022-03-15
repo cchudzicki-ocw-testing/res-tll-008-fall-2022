@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   Usability & Heuristics
 uid: 4308c7d6-5b1c-f23f-45f0-7d8bb492a2a6
+video_metadata:
+  youtube_id: null
 ---

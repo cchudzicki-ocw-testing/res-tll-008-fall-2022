@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: RES-TLL008F21-ALP_Open_Technologies_Open_Communities.docx
 uid: 0ddc2160-f045-ce3f-896d-53ad99980c2a
+video_metadata:
+  youtube_id: null
 ---

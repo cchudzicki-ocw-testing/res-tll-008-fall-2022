@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: RES.TLL-008 SERC Active Learning Project, 6.170 Prepatory Activity
 uid: 18ba5d05-6822-dfb7-d3f6-3f7596d669b1
+video_metadata:
+  youtube_id: null
 ---

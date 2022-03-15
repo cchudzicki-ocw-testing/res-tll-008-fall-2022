@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: MITRESTLL-008F21-6170quiz.docx
 uid: f78d5bc7-5a58-604c-1e30-4456675501c5
+video_metadata:
+  youtube_id: null
 ---

@@ -7,6 +7,8 @@ parent_type: SupplementalResourceSection
 parent_uid: 17e1fff5-e25b-6a04-922e-1cd9935bbd5a
 title: '6.864 Quantitative Methods for Natural Language Processing '
 uid: e973e803-f498-7fee-0427-c3ab9df01ebf
+video_metadata:
+  youtube_id: null
 ---
 
 _\> Related Topics:_ {{% resource_link 17e1fff5-e25b-6a04-922e-1cd9935bbd5a "AI and Algorithms" %}}, {{% resource_link a309ad69-914b-c4cb-9139-3610c7e186a1 "Ethical Computing and Practice" %}}

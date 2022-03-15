@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.864
   Assignment 2 Task 2A
 uid: 3a999f0c-7f4f-fc4d-e5e2-a39cfdc3fff4
+video_metadata:
+  youtube_id: null
 ---

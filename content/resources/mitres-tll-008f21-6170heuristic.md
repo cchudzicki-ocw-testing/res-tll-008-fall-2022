@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: MITRES-TLL-F21-6170Heuristic.docx
 uid: b91f260b-e72d-ba5c-48c5-3d9bab5b5f61
+video_metadata:
+  youtube_id: null
 ---

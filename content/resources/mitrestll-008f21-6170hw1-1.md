@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: MITRESTLL-008F21-6170hw1.docx
 uid: bfc14b2c-bbe6-88c8-9a99-01034e027e52
+video_metadata:
+  youtube_id: null
 ---

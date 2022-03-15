@@ -11,4 +11,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), ALP Open
   Technologies
 uid: 17714235-e1c6-4242-08f5-db881ee8643e
+video_metadata:
+  youtube_id: null
 ---
