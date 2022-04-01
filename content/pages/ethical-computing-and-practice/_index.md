@@ -64,13 +64,13 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 ## Active Learning Projects Developed at MIT
 
-{{% resource_link e64ac4d2-9c8c-a46c-929a-4f9414fb071b "Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)" %}} **(DOCX - 3.2MB)**
+#### {{% resource_link e64ac4d2-9c8c-a46c-929a-4f9414fb071b "Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)" %}} **(DOCX - 3.2MB)**
 
 An exercise to explore the ethical implications of digital advertising, grounded in the functionalities, data, and interfaces driving ad systems in the modern era. This lab focuses on Facebook’s Ads Manager.
 
 - *Associated case study:* Kant, T. (2021). Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User.” MIT Case Studies in Social and Ethical Responsibilities of Computing, (Summer 2021). [https://doi.org/10.21428/2c646de5.929a7db6](https://doi.org/10.21428/2c646de5.929a7db6)
 
-{{% resource_link 17714235-e1c6-4242-08f5-db881ee8643e "Active Learning Project: Active Learning Project on Developing Codes on Conduct (PDF) " %}} **(*****DOCX*****)**
+#### {{% resource_link 17714235-e1c6-4242-08f5-db881ee8643e "Active Learning Project: Active Learning Project on Developing Codes on Conduct (PDF) " %}} **(*****DOCX*****)**
 
 An exercise in developing a code of conduct for a team-based course in Github-hosted project repositories. 
 
