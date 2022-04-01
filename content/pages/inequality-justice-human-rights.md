@@ -52,7 +52,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 ## Active Learning Projects Developed at MIT
 
-{{% resource_link 17714235-e1c6-4242-08f5-db881ee8643e "Active Learning Project: Active Learning Project on Developing Codes on Conduct (PDF)" %}} **(DOCX)**
+#### {{% resource_link 17714235-e1c6-4242-08f5-db881ee8643e "Active Learning Project: Active Learning Project on Developing Codes on Conduct (PDF)" %}} **(DOCX)**
 
 An exercise in developing a code of conduct for a team-based course in Github-hosted project repositories. 
 
