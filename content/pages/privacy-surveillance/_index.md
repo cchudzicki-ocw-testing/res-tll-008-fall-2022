@@ -8,7 +8,7 @@ uid: f803f749-08f1-c66f-60a3-cce1b7107d8d
 video_metadata:
   youtube_id: null
 ---
-## {{% resource_link b50f80a0-1b37-7c22-394d-94da1312c4ac "STS.047 Quantifying People: A History of Social Science" %}}
+## {{% resource_link "b50f80a0-1b37-7c22-394d-94da1312c4ac" "STS.047 Quantifying People: A History of Social Science" %}}
 
 *Author:* Will Deringer
 
@@ -22,7 +22,7 @@ video_metadata:
 - How has quantification contributed to the injustices of modern policing and punishment—to the creation and maintenance of a system that disproportionately and unjustly targets, punishes, incarcerates, and kills people of color, especially Black citizens?
 - What can history tell us about the role that data and computation should—or should not—play in efforts to create a more just system of justice in the future?
 
-## {{% resource_link aa5524bd-44ac-a6cd-4acb-ef45ca9582d4 "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" %}}
+## {{% resource_link "aa5524bd-44ac-a6cd-4acb-ef45ca9582d4" "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" %}}
 
 *Author:* Dwai Banerjee
 
@@ -36,7 +36,7 @@ video_metadata:
 - To discuss whether they believe existing rights to be adequate
 - To examine whether current ethical standards (such as those instituted by the GDPR) sufficiently protect their rights (as they exist or as they believe should exist).
 
-## {{% resource_link a0645803-3a97-da0c-e60a-49b15e47101c "6.036 Introduction to Machine Learning" %}}
+## {{% resource_link "a0645803-3a97-da0c-e60a-49b15e47101c" "6.036 Introduction to Machine Learning" %}}
 
 *Authors:* Leslie Kaelbling, Serena Booth, Marion Boulicault, Dheekshita Kumar, Rodrigo Ochigame
 
@@ -74,7 +74,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 ## Active Learning Projects Developed at MIT
 
-#### {{% resource_link e64ac4d2-9c8c-a46c-929a-4f9414fb071b "Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)" %}} **(DOCX - 3.2MB)**
+#### {{% resource_link "e64ac4d2-9c8c-a46c-929a-4f9414fb071b" "Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)" %}} {{% resource_link "1ac96d82-3bf0-485a-cf3d-0aafabb52d43" "(DOCX - 3.2MB)" %}}
 
 An exercise to explore the ethical implications of digital advertising, grounded in the functionalities, data, and interfaces driving ad systems in the modern era. This lab focuses on Facebook’s Ads Manager.
 
