@@ -8,7 +8,7 @@ uid: 8918d065-a83d-28bb-930c-c997c41daa24
 video_metadata:
   youtube_id: null
 ---
-## {{% resource_link b50f80a0-1b37-7c22-394d-94da1312c4ac "STS.047 Quantifying People: A History of Social Science" %}}
+## {{% resource_link "b50f80a0-1b37-7c22-394d-94da1312c4ac" "STS.047 Quantifying People: A History of Social Science" %}}
 
 *Author:* Will Deringer
 
@@ -52,7 +52,9 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 ## Active Learning Projects Developed at MIT
 
-#### {{% resource_link 17714235-e1c6-4242-08f5-db881ee8643e "Active Learning Project: Active Learning Project on Developing Codes on Conduct (PDF)" %}} **(DOCX)**
+{{% resource_link "17714235-e1c6-4242-08f5-db881ee8643e" "Active Learning Project: Active Learning Project on Developing Codes on Conduct (PDF)" %}} 
+
+{{% resource_link "0ddc2160-f045-ce3f-896d-53ad99980c2a" "(DOCX)" %}}
 
 An exercise in developing a code of conduct for a team-based course in Github-hosted project repositories. 
 
