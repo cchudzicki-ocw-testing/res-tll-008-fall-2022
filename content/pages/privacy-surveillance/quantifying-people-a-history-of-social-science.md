@@ -11,7 +11,7 @@ uid: b50f80a0-1b37-7c22-394d-94da1312c4ac
 video_metadata:
   youtube_id: null
 ---
-*\> Related Topics:* {{% resource_link f803f749-08f1-c66f-60a3-cce1b7107d8d "Privacy and Surveillance" %}}, {{% resource_link 8918d065-a83d-28bb-930c-c997c41daa24 "Inequality, Justice, & Human Rights" %}}
+*\> Related Topics:* {{% resource_link "f803f749-08f1-c66f-60a3-cce1b7107d8d" "Privacy and Surveillance" %}}, {{% resource_link "8918d065-a83d-28bb-930c-c997c41daa24" "Inequality, Justice, & Human Rights" %}}
 
 *Author:* Will Deringer
 
@@ -25,7 +25,7 @@ video_metadata:
 
 ## Resources:
 
-*Lecture Module:* {{% resource_link 9fd9e6dd-436b-af1b-7d0b-e9ff0011d48c "Quantifying People: A History of Social Science Lecture (PDF)" %}}*(PPTX - 5.8MB)*
+*Lecture Module:* {{% resource_link "9fd9e6dd-436b-af1b-7d0b-e9ff0011d48c" "Quantifying People: A History of Social Science Lecture (PDF)" %}} {{% resource_link "b117137f-5b5e-bc7e-c8da-a0b8c437d813" "PPTX - 5.8MB)" %}}
 
 ## Additional Reading: 
 
