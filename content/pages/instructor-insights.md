@@ -27,4 +27,4 @@ As Prof. Daniel Jackson sees it, software can fail its users in three ways: Firs
 
 In this episode, Jackson and Booth discuss concrete changes they made in their revision of 6.170, including introducing ethical concerns early in the course and sharing an ethics protocol to scaffold students’ decision-making throughout the software design process. 
 
-\[\[Insert embedded podcast here\]\]
+{{< simplecast ecf4e6d6-8bd8-4a86-a052-d0374fe792bd >}}
