@@ -27,6 +27,6 @@ In this episode, Prof. D’Ignazio, Prof. Andreas, and graduate student Harini S
 
 As Prof. Daniel Jackson sees it, software can fail its users in three ways: First, it can simply work badly, failing to meet the purpose it was intended for. Second, it may do what the user wants it to, while simultaneously accomplishing some insidious purpose that the user is unaware of. Third, it may “contribute to a computational environment that has subtly pernicious effects” on the individual or on society—effects unintended not only by the user but also by the software designer. Prof. Jackson and graduate teaching assistant Serena Booth have attempted to address these second and third types of failure by incorporating ethical considerations in their revised syllabus for Prof. Jackson and Prof. Arvind Satyanarayan’s course *6.170 Software Studio*. 
 
-In this episode Jackson and Booth discuss concrete changes they made in their revision of 6.170, including introducing ethical concerns early in the course and sharing an ethics protocol to scaffold students’ decision-making throughout the software design process. 
+In this episode, Jackson and Booth discuss concrete changes they made in their revision of 6.170, including introducing ethical concerns early in the course and sharing an ethics protocol to scaffold students’ decision-making throughout the software design process. 
 
 \[\[Insert embedded podcast here\]\]
