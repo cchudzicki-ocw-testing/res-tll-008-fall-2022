@@ -9,11 +9,9 @@ uid: ea6634c6-1841-f34c-97bd-e95620a88401
 video_metadata:
   youtube_id: null
 ---
-## Instructor Insights
-
 In the episodes of the Chalk Radio podcast embedded below, we present interviews with MIT professors and other instructors who have helped to transform computer science education as part of the Social and Ethical Responsibilities of Computing (SERC) initiative.
 
-### Interview: Prof. Catherine D’Ignazio, Prof. Jacob Andreas, and Harini Suresh
+## Instructor Interview: Prof. Catherine D’Ignazio, Prof. Jacob Andreas, and Harini Suresh
 
 {{< quote "The goal is to get students to think about data as the product of a long and complex process that is driven by human judgments and values." "— Harini Suresh" >}}
 
@@ -23,7 +21,7 @@ In this episode, Prof. D’Ignazio, Prof. Andreas, and graduate student Harini S
 
 {{< simplecast ecf4e6d6-8bd8-4a86-a052-d0374fe792bd >}}
 
-### Interview: Prof. Daniel Jackson and Serena Booth
+## Instructor Interview: Prof. Daniel Jackson and Serena Booth
 
 As Prof. Daniel Jackson sees it, software can fail its users in three ways: First, it can simply work badly, failing to meet the purpose it was intended for. Second, it may do what the user wants it to, while simultaneously accomplishing some insidious purpose that the user is unaware of. Third, it may “contribute to a computational environment that has subtly pernicious effects” on the individual or on society—effects unintended not only by the user but also by the software designer. Prof. Jackson and graduate teaching assistant Serena Booth have attempted to address these second and third types of failure by incorporating ethical considerations in their revised syllabus for Prof. Jackson and Prof. Arvind Satyanarayan’s course *6.170 Software Studio*. 
 
