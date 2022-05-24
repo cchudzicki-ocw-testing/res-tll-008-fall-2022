@@ -11,7 +11,7 @@ video_metadata:
 ---
 ## Instructor Insights
 
-In the episodes of the Chalk Radio podcast embedded below, we present interviews with MIT professors and other instructors who have contributed to the transformation of computer science education as part of the Social and Ethical Responsibilities of Computing (SERC) initiative.
+In the episodes of the Chalk Radio podcast embedded below, we present interviews with MIT professors and other instructors who have helped to transform computer science education as part of the Social and Ethical Responsibilities of Computing (SERC) initiative.
 
 ### Interview: Prof. Catherine D’Ignazio, Prof. Jacob Andreas, and Harini Suresh
 
