@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/8283d95f3ec08827137334de3d3959ca_MITRES-TLL008F21-STS-012module.docx
+file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/8283d95f3ec08827137334de3d3959ca_MITRES-TLL008F21-STS-012module.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types: []
 ocw_type: OCWFile

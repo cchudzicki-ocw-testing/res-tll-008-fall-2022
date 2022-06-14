@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/1ac96d823bf0485acf3d0aafabb52d43_RES-TLL008F21-ALP-ELO_Practice_Lab.docx
+file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/1ac96d823bf0485acf3d0aafabb52d43_RES-TLL008F21-ALP-ELO_Practice_Lab.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types: []
 ocw_type: OCWFile
