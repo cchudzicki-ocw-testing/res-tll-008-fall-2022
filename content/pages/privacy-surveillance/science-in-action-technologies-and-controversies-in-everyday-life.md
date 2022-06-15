@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Class materials for STS.012/STS.008 Science in Action: Technologies
+  and Controversies in Everyday Life.'
 draft: false
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

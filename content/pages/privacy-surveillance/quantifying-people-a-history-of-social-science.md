@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Class materials for STS.047 Quantifying People: A History of Social
+  Science.'
 draft: false
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Social and Ethical Responsibilities of Computing (SERC) topics focusing
+  on ethical computing and practice. Includes class resources, MIT case studies, and
+  active learning projects.
 draft: false
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
