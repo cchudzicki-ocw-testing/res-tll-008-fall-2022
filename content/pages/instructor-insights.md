@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Professor Catherine D\u2019Ignazio, Professor Jacob\
+  \ Andreas, and graduate student Harini Suresh describe various aspects of how they\
+  \ taught 6.864 Quantitative Methods for Natural Language Processing."
 draft: false
 layout: instructor_insights
 learning_resource_types: []
