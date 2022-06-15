@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Class materials for 6.036 Introduction to Machine Learning.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Ethical Computing and Practice

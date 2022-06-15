@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Class materials for 6.864 Quantitative Methods for Natural Language Processing
+  .
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: AI and Algorithms
