@@ -22,7 +22,7 @@ When computer science was in its infancy, programmers quickly realized that thou
 
 In this episode, Prof. D’Ignazio, Prof. Andreas, and graduate student Harini Suresh describe the principles behind their revised curriculum for the course *6.864 Quantitative Methods for Natural Language Processing*.
 
-{{< simplecast ecf4e6d6-8bd8-4a86-a052-d0374fe792bd >}}
+{{< simplecast 90d6bdf6-ab2a-4716-b108-3ec6171a7972 >}}
 
 ## Instructor Interview: Prof. Daniel Jackson and Serena Booth
 
